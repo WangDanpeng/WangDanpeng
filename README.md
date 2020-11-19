@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🤣 一个底层程序员
+- 👀 这几年在搞大数据
+- 🤝 想进大厂, 有机会内推我
+- 🌈 [博客](http://www.wangdanpeng.com/)
+- 🤔 还有个域名, 不知道干嘛, 可以给提点意见 -> [耗子尾汁](http://www.haoziweizhi.cn/)
 
 <!--
 **WangDanpeng/WangDanpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
